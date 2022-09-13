@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Steam\Desktop\Лабы\12лаба\Project3\Project3\Source.c(25,38): warning C4244: функция: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\Steam\Desktop\Лабы\12лаба\Project3\Project3\Source.c(25,39): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+  Project3.vcxproj -> C:\Users\Steam\Desktop\Лабы\12лаба\Project3\Debug\Project3.exe
